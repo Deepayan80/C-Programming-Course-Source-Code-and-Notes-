@@ -11,6 +11,7 @@ int main()
     // printf("Deepayan Das\r");
     // printf("Sahajan");
     // printf("9\\2");
-    printf("\"HI\"");
+    // printf("\"HI\"");
+    printf("\'A\'");
     return 0;
 }
